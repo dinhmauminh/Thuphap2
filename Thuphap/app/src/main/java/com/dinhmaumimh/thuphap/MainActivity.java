@@ -103,6 +103,12 @@ public class MainActivity extends AppCompatActivity
                     "Mây thiếu gió mây cũng buồn rũ rượi\n" +
                     "Gió thiếu mây lòng gió cũng nao nao\n" +
                     "\n","Thơ","Sưu tầm");
+            SQ.addThuphap("Tinh tho","Phong và Vân\n" +
+                    "Cũng có lúc mây hững hờ lẩn tránh\n" +
+                    "Gió lang thang tìm kiếm khắp trời cao\n" +
+                    "Mây thiếu gió mây cũng buồn rũ rượi\n" +
+                    "Gió thiếu mây lòng gió cũng nao nao\n" +
+                    "\n","Thơ","Sưu tầm");
         }
 
 
